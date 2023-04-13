@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":"Virtual Smoke is an innovative application that has taken the world by storm. This app simulates the experience of smoking, without the health risks associated with traditional smoking. ","photo":"https://iili.io/HvA2ddb.png"},
+  {"title":"tips pack 2","desc":"An amazing program that has swept the globe is called Virtual Smoke. Without the health dangers connected to regular smoking, this software simulates the experience of smoking.","photo":"https://iili.io/HvA291e.jpg"},
+  {"title":"how to use this app 3","desc":"Virtual Smoke is a virtual reality application that uses advanced technology to create an immersive experience for users who want to quit smoking, but are finding it difficult to do so.","photo":"https://iili.io/HvAdyB9.jpg"},
+  {"title":"advance mod 4","desc":"With the use of cutting-edge technology, the virtual reality program Virtual Smoke gives users who want to stop smoking but are having trouble doing so an immersive experience.","photo":"https://iili.io/HvA2Hru.jpg"},
+  {"title":"helper pack 5","desc":"Virtual Smoke works by creating a virtual environment where users can smoke without actually inhaling any smoke. This is achieved by using a combination of sensory technologies, including visual, ","photo":"https://iili.io/HvA227j.jpg"},
+  {"title":"tips mod 6","desc":"Users of Virtual Smoke can smoke in a virtual setting without really breathing in any smoke. This is accomplished by combining various sense technologies, such as visual,","photo":"https://iili.io/HvA23kx.png"},
+  {"title":"advice pack 7","desc":"feedback that is tactile and audible. Without actually smoking, users can see the smoke, hear the sound of a cigarette burning, and experience the sensation of smoking.","photo":"https://iili.io/HvA2fIV.png"},
+  {"title":"helper mod 8","desc":"This creates a realistic experience that can help users to break their smoking addiction.","photo":"https://iili.io/HvA2FmQ.jpg"}
 
    ]
  
